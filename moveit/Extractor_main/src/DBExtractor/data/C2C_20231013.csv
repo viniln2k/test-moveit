@@ -1,0 +1,11 @@
+FirstName,LastName,EmailAddress,PracticeOffice,OfficeZipCode,CreationDate,AbbVieRep,HCPPharmacist,Branded
+AA,BB,aaG@gmail.com,12/57,10010,2023-10-05-07:00:40,ccc,I'm a Pharmacist,Unbranded
+yy,jj,ss@gmail.com,123,10010,2023-10-05-06:56:23,qwe,I'm a Pharmacist,Branded
+hh,jj,ss@gmail.com,12,10010,2023-10-05-06:54:17,aaq,I'm a Pharmacist,Branded
+dd,gg,dd@gmail.com,123,10010,2023-10-05-06:52:37,swq,I'm a Pharmacist,Branded
+dd,cc,gg@gmail.com,qwe,10010,2023-10-05-06:49:57,ae,I'm a Pharmacist,Branded
+cc,dd,aa@gmail.com,123,10010,2023-10-05-06:42:01,sws,I'm a Health Care Provider,Unbranded
+AA,BB,aaG@gmail.com,12/57,10010,2023-10-05-06:37:31,ccc,I'm a Pharmacist,Unbranded
+AA,BB,aaG@gmail.com,12,10010,2023-10-05-06:35:45,11,I'm a Pharmacist,Unbranded
+John ,Wayne,davidic11@gmail.com,Dallas,75080,2023-10-02-18:01:18,Connie Wilson,I'm a Pharmacist,Unbranded
+Rahul,MohanKumar,rahul.mohankumar@abbvie.com,test one,60085,2023-09-29-03:21:59,test one,I'm a Pharmacist,Branded
